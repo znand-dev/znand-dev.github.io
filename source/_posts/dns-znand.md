@@ -12,13 +12,12 @@ Selamat datang [Znand's Blog](https://znand.my.id/)! Disini saya akan share DoH 
 
    Sebelumnya, AdGuard DNS merupakan layanan Public DNS gratis yang disediakan oleh AdGuard. Bagi saya, DNS ini sangat berguna sekali karena dapat menyediakan fitur:
 
-{% note success %}
 - 🧱 Pemblokiran iklan & tracker =>	Gak perlu adblock di browser, langsung blok dari DNS
 - 🔐 Perlindungan privasi	=> Mencegah pelacakan dari pihak ketiga
 - ⚠️ Filter malware/phishing => Menghindari situs berbahaya sejak awal
 - 🧒 Mode Keluarga (Family Mode) => Blokir konten dewasa + aktifkan Safe Search
 - 🌐 Support DoH/DoT/DoQ => Aman & terenkripsi, gak bisa disadap ISP
-{% endnote %}
+
 
 Silahkan setting di router, laptop, hp dll
 

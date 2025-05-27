@@ -17,7 +17,8 @@ nav:
   fixed: true
 
 menu:
-  # Home: / || fas fa-home
+  Home: / || fas fa-home
+  Timeline: /archives/ || fas fa-archive
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -28,7 +29,7 @@ menu:
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  theme: light
+  theme: pale night
   macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
@@ -45,8 +46,11 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-   fab fa-github: https://github.com/nannozeta || Github || '#24292e'
-   fas fa-envelope: mailto:ismunand12@gmail.com || Email || '#4a7dbe'
+   fab fa-github: https://github.com/nannozeta || Github || '#575264'
+   fas fa-envelope: mailto:nannozeta@proton.me || Email || '#7de056'
+   fa-brands fa-twitter: https://twitter.com/nannozeta || Twitter || '#4a7dbe'
+   fa-brands fa-instagram: https://instagram.com/znand_ || Instagram || '#e06656'
+   fa-brands fa-telegram: https://t.me/nandzie || Telegram || '#3c9be3'
 
 # --------------------------------------
 # Image Settings
@@ -59,13 +63,13 @@ avatar:
   effect: false
 
 # Disable all banner images
-disable_top_img: false
+disable_top_img: true
 
 # If the banner of page not setting, it will show the default_top_img
 default_top_img: /img/bg12.jpg
 
 # The banner image of index page
-index_img: /img/background8.gif
+index_img: 
 
 # The banner image of archive page
 archive_img:
@@ -173,7 +177,7 @@ subtitle:
 # 5: Info displayed on the cover
 # 6: Masonry layout - Cover on top, info on the bottom
 # 7: Masonry layout - Info displayed on the cover
-index_layout: 3
+index_layout: 1
 
 # Display the article introduction on homepage
 # 1: description
@@ -257,8 +261,8 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2019
-  custom_text:
+    since: 2025
+  custom_text: Framework Hexo 7.3.0 | Deployed with ❤ by znand
   # Copyright of theme and framework
   copyright: false
 

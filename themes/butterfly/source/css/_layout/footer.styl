@@ -1,35 +1,29 @@
 #footer
   position: relative
-  background-color: $dark-blue
+  background-color: rgba(0, 0, 0, 0.3) /* Warna hitam dengan transparansi 30% */
   background-attachment: scroll
   background-position: bottom
   background-size: cover
+  backdrop-filter: blur(5px) /* Efek blur untuk glassmorphism */
 
   if hexo-config('footer_img') != false && hexo-config('mask.footer')
     &:before
       position: absolute
       width: 100%
       height: 100%
-      background-color: var(--mark-bg)
+      background-color: rgba(0, 0, 0, 0.2) /* Transparansi lebih ringan */
       content: ''
 
 #footer-wrap
   position: relative
   padding: 40px 20px
-  color: var(--light-grey)
+  color: rgba(255, 255, 255, 0.8) /* Warna teks semi-transparan */
   text-align: center
 
   a
-    color: var(--light-grey)
+    color: rgba(255, 255, 255, 0.9) /* Warna link lebih solid */
+    text-decoration: none
 
     &:hover
+      color: white
       text-decoration: underline
-
-  .footer-separator
-    margin: 0 4px
-
-  .icp-icon
-    padding: 0 4px
-    max-height: 1.4em
-    width: auto
-    vertical-align: text-bottom

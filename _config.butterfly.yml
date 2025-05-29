@@ -292,7 +292,7 @@ aside:
       link: https://instagram.com/znand_
   card_announcement:
     enable: true
-    content: Hi welcome to my blog, here i share many tips in the Networking. Follow me in Instagram :)
+    content: Fellow Visitians. Karena kendala VPS, DNS-over-HTTPS nya saya takedown dulu untuk sementara. Maaf atas ketidaknyamanannya.
   card_recent_post:
     enable: true
     # If set 0 will show all

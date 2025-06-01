@@ -212,7 +212,7 @@ post_copyright:
 # Sponsor/reward
 reward:
   enable: true
-  text:
+  text: Buy me a coffe
   QR_code:
      - img: /img/qr_ethereum.jpg
     #   link:

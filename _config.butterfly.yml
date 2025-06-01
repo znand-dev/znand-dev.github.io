@@ -652,10 +652,10 @@ artalk:
 chat:
   # Choose: chatra/tidio/crisp
   # Leave it empty if you don't need chat
-  use:
+  use: crisp
   # Chat Button [recommend]
   # It will create a button in the bottom right corner of website, and hide the origin button
-  rightside_button: false
+  rightside_button: true
   # The origin chat button is displayed when scrolling up, and the button is hidden when scrolling down
   button_hide_show: false
 
@@ -669,7 +669,7 @@ tidio:
 
 # https://crisp.chat/en/
 crisp:
-  website_id:
+  website_id: bf5e06a9-bc84-47b5-b228-fbfbdc893178
 
 # --------------------------------------
 # Analysis

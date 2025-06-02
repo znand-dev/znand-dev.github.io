@@ -292,7 +292,7 @@ aside:
       link: https://instagram.com/znand_
   card_announcement:
     enable: true
-    content: Fellow Visitians. Karena kendala VPS, DNS-over-HTTPS nya saya takedown dulu untuk sementara. Maaf atas ketidaknyamanannya.
+    content: Fellow Visitians. Karena Resource VPS telah free, DNS-over-HTTPS nya telah saya aktifkan dan online kembali. Silahkan dipakai kembali ya, Terimakasih sudah menunggu 😉👌.
   card_recent_post:
     enable: true
     # If set 0 will show all

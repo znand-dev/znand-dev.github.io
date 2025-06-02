@@ -18,24 +18,25 @@ Selamat datang [Znand's Blog](https://znand.my.id/)! Disini saya akan share DoH 
 - 🧒 Mode Keluarga (Family Mode) => Blokir konten dewasa + aktifkan Safe Search
 - 🌐 Support DoH/DoT/DoQ => Aman & terenkripsi, gak bisa disadap ISP
 
+Dijamin full filtering Ads, Trackers, Malware, Phising dan Konten dewasa.
 
-Silahkan setting di router, laptop, hp dll
+Silahkan setting di router, laptop, hp dll :
 
-### IP Address 
+### Hostname only (Port 443)
 ```
-54.169.160.154
+dns.znand.biz.id
 ```
 ### DNS-over-HTTPS
 ```
-https://dns.znand.my.id/dns-query
+https://dns.znand.biz.id/dns-query
 ```
-
 ### DNS-over-TLS                          
 ```
-tls://dns.znand.my.id
+tls://dns.znand.biz.id
 ```
 
 ### 🛠️Tools
 - [Find & Check IP](https://whoer.net/)
 - [DNSCheckTools](https://dnscheck.tools/)
 
+Ada yang mau ditanyain? Komen aja dibawah ya.

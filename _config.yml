@@ -101,7 +101,4 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/znand-dev/znand-dev.github.io.git
-  branch: main
-  message: Deleted CNAME Record
+  type: ''

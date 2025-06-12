@@ -1,6 +1,7 @@
 Hi guys! selamat datang..
 
-Untuk berbagi pengalaman dan pengetahuan seputar IT, akan saya update di blog ya
+Untuk berbagi pengalaman dan pengetahuan seputar IT, akan saya update di blog ya..
+Silahkan akses blog nya lewat ini ini : https://znand.my.id
 Selamat membaca dan praktek
 
 Have a nice day ^_^

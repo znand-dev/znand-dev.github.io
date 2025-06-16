@@ -1,11 +1,11 @@
 title: 'Linux Server vs Windows Server, Mana Yang Terbaik ?'
+date: 2025-06-12 08:25:00
 cover: /img/basic_it1.png
 top_img: /img/default.png
 tags:
   - Linux
   - Windows Server
   - Server OS
-  - IT Infrastructure
   - SysAdmin
   - Server Management
   - Open Source

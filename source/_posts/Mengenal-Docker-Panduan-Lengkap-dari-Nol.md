@@ -1,7 +1,7 @@
 title: 'Mengenal Docker: Panduan Lengkap dari Nol'
 author: Januar Ismunandar
 date: 2025-06-15 19:43:40
-tags: DevOps
+tags: [DevOps, Networking]
 cover: /img/banner_docker.png
 top_img: /img/default.png
 ---

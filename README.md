@@ -2,20 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=W+E+L+C+O+M+E+!++^+_+^++" />
 </p>
 
-<h3 align="center">👋🏻😁 Hi guys! Selamat Datang di Repo ini!</h3>
+<h3 align="center">👋🏻😁 Hi guys!</h3>
 
 ---
 
 📚 Di sini gw bakal **berbagi pengalaman & pengetahuan seputar dunia IT**  
-Mulai dari jaringan, Linux, codingan ringan dll via blog 😎
+Mulai dari jaringan, Linux, codingan ringan dll via blog
 
 📝 Blog-nya bisa kalian akses di sini ya:  
-👉 **[https://znand.my.id](https://znand.my.id)**
+**[https://znand.my.id](https://znand.my.id)**
 
 ---
 
-🎯 Tujuan utama?  
-Biar makin banyak yang bisa belajar bareng dan makin jago, apalagi yang baru mulai.  
+🎯 Biar makin banyak yang bisa belajar bareng dan makin jago, apalagi yang baru mulai.  
 **Sharing is caring** 💪🔥
 
 ---

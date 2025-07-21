@@ -96,7 +96,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+remote_theme: jerryc127/hexo-theme-butterfly@v5.4.2
+plugins:
+  - jekyll-remote-theme
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

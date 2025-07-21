@@ -3,7 +3,7 @@ name: Pages
 on:
   push:
     branches:
-      - main  # Trigger saat push ke branch main
+      - main
 
 jobs:
   build:
@@ -12,12 +12,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          submodules: recursive  # Jika pakai submodule
+          submodules: recursive
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "22"  # Ganti dengan versi Node.js-mu
+          node-version: "22" 
 
       - name: Cache Dependencies
         uses: actions/cache@v4
@@ -29,12 +29,12 @@ jobs:
         run: npm install
 
       - name: Build Hexo
-        run: npm run build  # Akan menjalankan `hexo generate`
+        run: npm run build  
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public  # Folder hasil build Hexo
+          path: ./public
 
   deploy:
     needs: build

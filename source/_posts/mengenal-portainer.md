@@ -10,7 +10,8 @@ tags:
   - selfhosted
   - monitoring
   - container
-cover: /images/posts/portainer-cover.webp
+cover: /img/container_withportainer.png
+top_img: /img/default.png
 ---
 
 > 🎛️ **Portainer: Klik-Klik Auto Jalan, Tanpa Pusing CLI!** 🔥

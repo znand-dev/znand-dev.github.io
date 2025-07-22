@@ -10,7 +10,7 @@ tags:
   - selfhosted
   - monitoring
   - container
-cover: /img/container_withportainer.png
+cover: /img/banner_portainer.png
 top_img: /img/default.png
 ---
 
@@ -111,7 +111,7 @@ Beberapa hal yang bisa lu lakuin:
 - **Deploy container baru** via wizard atau YAML
 - **Pull image baru dari Docker Hub**
 
-![Dashboard Portainer](/images/posts/portainer-dashboard.webp)
+![Dashboard Portainer](/img/container_withportainer.png)
 
 ## 🧱 Manajemen Stack dengan Docker Compose
 

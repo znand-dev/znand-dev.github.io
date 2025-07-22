@@ -23,7 +23,7 @@ top_img: /img/default.png
 **Portainer** adalah web-based GUI buat manajemen Docker dan Kubernetes. Tools ini bikin kamu bisa:
 - Cek status container secara visual
 - Buat container baru tanpa CLI
-- Kelola volume, network, image, sampe stack
+- Kelola vome, network, image, sampe stack
 - Support Docker Standalone, Docker Swarm, Kubernetes
 
 ⚡ Portainer cocok banget buat pemula atau DevOps yang mau setup cepat tanpa ribet.
@@ -97,13 +97,13 @@ Setelah running, akses browser ke:
 - **https://[IP-Server]:9443** → untuk versi HTTPS
 - **http://[IP-Server]:9000** → untuk versi HTTP
 
-Saat pertama kali login, lu bakal diminta:
+Saat pertama kali login, kamu bakal diminta:
 1. Buat admin user
 2. Pilih endpoint Docker mana yang mau dikontrol
 
 ## 📦 Manajemen Container via UI
 
-Beberapa hal yang bisa lu lakuin:
+Beberapa hal yang bisa kamu lakuin dan pelajari:
 
 - **Lihat semua container**: status, logs, port map
 - **Start / Stop / Restart** container
@@ -115,7 +115,7 @@ Beberapa hal yang bisa lu lakuin:
 
 ## 🧱 Manajemen Stack dengan Docker Compose
 
-🔥 Salah satu fitur andalan Portainer adalah **Stack**, yang bisa lu gunakan buat deploy aplikasi multi-container pakai `docker-compose.yml`.
+🔥 Salah satu fitur andalan Portainer adalah **Stack**, yang bisa kamu gunakan buat deploy aplikasi multi-container pakai `docker-compose.yml`.
 
 ### 🚀 Cara Deploy Docker Compose via Portainer
 
@@ -146,11 +146,11 @@ volumes:
 
 5. Klik **Deploy the Stack**
 
-🎉 Semua container akan langsung dibuat dan dijalankan berdasarkan file compose lu!
+🎉 Semua container akan langsung dibuat dan dijalankan berdasarkan file compose kamu
 
 ### 🔁 Kelola Stack
 
-Di dalam menu stack, lu bisa:
+Di dalam menu stack, kamu bisa:
 - Stop/start/redeploy seluruh stack
 - Edit langsung file compose
 - Lihat log & status tiap service

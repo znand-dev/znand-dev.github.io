@@ -1,5 +1,5 @@
 ---
-title: "Manajemen Docker Makin Gampang dengan Portainer"
+title: "Manajemen Docker Makin Mudah dengan Portainer"
 date: 2025-07-22 15:00:00
 categories:
   - DevOps

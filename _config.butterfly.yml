@@ -262,7 +262,8 @@ footer:
   owner:
     enable: true
     since: 2025
-  custom_text: Framework Hexo 7.3.0 | Deployed with ❤ by znand
+  custom_text: 
+    - Framework Hexo 7.3.0 Butterfly Theme | Deployed with ❤ by znand
   # Copyright of theme and framework
   copyright: false
 

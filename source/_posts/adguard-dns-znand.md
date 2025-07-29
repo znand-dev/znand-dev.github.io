@@ -35,6 +35,9 @@ https://dns.znand.my.id/dns-query
 tls://dns.znand.my.id
 ```
 
+### Statistic & Live Monitoring
+- [DNS Stats](https://stats.znand.my.id/public-dashboards/ddc0442fa8bb4227838c7085e69e9bac)
+
 ### 🛠️Tools
 - [Find & Check IP](https://whoer.net/)
 - [DNSCheckTools](https://dnscheck.tools/)
